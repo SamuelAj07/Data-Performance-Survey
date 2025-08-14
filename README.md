@@ -41,25 +41,25 @@ This case study surveys data from data professionals worldwide to uncover key pa
 
 1️⃣ EXCEL
 
- - Cleaning Data
+ - [Cleaning Data]()
 
-- Pivot Table
+- [Pivot Table](https://ibb.co/jk56BwX1)
 
 -	Pivot Charts
 
 2️⃣ Powerbi
 
-.	Data Importing: Getting data as an excel file in PowerBI
+- Data Importing: Getting data as an excel file in PowerBI
 
-.	Data Transformation and Manipulation: Use of powerquery for Table quality and distribution. Dax function for a calculated column of the Year. 
+- Data Transformation and Manipulation: Use of powerquery for Table quality and distribution. Dax function for a calculated column of the Year. 
 
-.	Data visualization of pre-processed data.
+- Data visualization of pre-processed data.
 
 3️⃣ SQL
 
-a.	Data Maintenance
+- 	Data Maintenance
 
-b.	Data Retrieval 
+- 	Data Retrieval 
 
 
 ## 🧹Data Cleaning
@@ -123,6 +123,14 @@ What was done;
 A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
 Unique ID|Date Taken|Time Taken| Time Spent|	Current Role(Q1)|	Career Switch (Q2)|Yearly Salary (Q3)|Work Industry (Q4)|Favourite Programming Language (Q5)|Happiness Level (Q6)|Difficulty breaking into Data(Q7)|Most important Job Factor(Q8)|Gender (Q9)|Age (Q10)|Country(Q11)|Education Level (Q12)|Ethnicity(Q13)|
 |-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|----|
+62a33b3db4da29969c62df3d|	6/10/2022|	8:38|	0:00:44|	Data Analyst| Yes|  $115,500.00 | Healthcare|Python|0|Very Difficult|Remote work|Male|26|United States|Others|White or Caucasian
+62a33ba1bae91e4b8b82e35c|	6/10/2022|	8:40|	0:01:30|	Data Analyst|No| $53,000.00 |Finance|R|1|Very Difficult|Remote work|Male|36|Canada|Others|Asian
+62a33c2cbc6861bf3176bec1|	6/10/2022|	8:42|	0:02:18|	Data Analyst| No| $20,000.00| Clean Energy|Python|0|Easy|Good Work/Life Balance|Male|23|Nigeria|Others|Black or African
+62a33c8624a26260273822f9|	6/10/2022|	8:43|	0:02:10|	other| Yes| $187,500.00 | Finance|R|10|Very Easy|Remote work|Female|35|Canada|Others|White or Caucasian
+62a33c91f3072dd892621e03|	6/10/2022|	8:44|	0:01:51|	Data Analyst|Yes|  $53,000.00 | Healthcare|R|1|Difficult|Better Salary|Male|44|United States|Others|Black or African
+
+
+
 
 ## ASK
 
