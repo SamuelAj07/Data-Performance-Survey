@@ -62,7 +62,7 @@ a.	Data Maintenance
 b.	Data Retrieval 
 
 
-## 🧹 Data Cleaning
+## 🧹Data Cleaning
 
 Datasets Pre-processed for meaningful insights 
 
@@ -121,8 +121,8 @@ What was done;
 ## Tabular Overview 
 
 A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
-
-|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|
+Unique ID|Date Taken|Time Taken| Time Spent|	Current Role(Q1)|	Career Switch (Q2)|Yearly Salary (Q3)|Work Industry (Q4)|Favourite Programming Language (Q5)|Happiness Level (Q6)|Difficulty breaking into Data(Q7)|Most important Job Factor(Q8)|Gender (Q9)|Age (Q10)|Country(Q11)|Education Level (Q12)|Ethnicity(Q13)|
+|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|----|
 
 ## ASK
 
