@@ -30,7 +30,7 @@
 
 ## 💼Case Study 
 
-This case study surveys data from data professionals worldwide to uncover key patterns and insights. This analysis looks at the relationship that exist between individuality and various external factors (payment gaps, gender, industries priority, skills, career change,  job satisfaction , country)
+This case study surveys data from data professionals worldwide to uncover key patterns and insights. This analysis looks at the relationship that exist between individuality and various external factors (Payment gaps, Gender, Industries priority, Skills, Career change, Job satisfaction, Country)
 
 
 ## 🧩Data Sources
@@ -189,6 +189,21 @@ Bangladeshi and Turkish earn the lowest salaries at around $50K.
 
 
 ## Strategic Recommendations
+
+🔷 Close the Gender Pay Gap – Conduct salary audits and use transparent pay structures
+
+🔷 Focus training on high-paying skills like Java and C/C++, while strengthening Python and JavaScript expertise.
+
+🔷 Develop talent pipelines for high-value roles such as Data Science and Business Analysis.
+
+🔷 Support Female Career Switchers – Offer mentorship and reskilling programs.
+
+🔷 Top-paying industries should be targeted for Job Opportunities as well Salary review conducted in respective industries that corresponds to Individual Values 
+
+🔷 Support Female Career Switchers – Offer mentorship and reskilling programs.
+
+🔷 Promote diversity across all ethnic groups ensuring the same career growth and opportunities 
+
 
 ## Refrences 
 
