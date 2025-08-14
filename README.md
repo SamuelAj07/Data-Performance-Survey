@@ -18,7 +18,7 @@
 
 [ASK](#ask)
 
-[Analysis Visualisation](#analysis-visualisation)
+[Dashboard](#dashboard)
 
 [Actionable Insights](#actionable-insights)
 
@@ -149,7 +149,10 @@ The analysis explored key business questions to provide insights in the data:
 🟢 What is the gender distribution across tech roles?
 
 
-## Analysis Visualisation
+## Dashboard
+
+<img width="1537" height="503" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/6bfd9932-8aed-4387-917c-ed760170b54b" />
+
 
 ### Queries
 
