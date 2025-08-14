@@ -151,7 +151,7 @@ The analysis explored key business questions to provide insights in the data:
    
 Males earn an average salary of $53K, slightly lower than females at $55K.
 
-3. Salary Average by Favourite Programming Language
+2. Salary Average by Favourite Programming Language
 
 Java generate the higest average salary at $116K, followed by C/C++ ($68K) and Python ($54K).
 
