@@ -41,7 +41,7 @@ This case study surveys data from data professionals worldwide to uncover key pa
 
 1️⃣ EXCEL
 
- - [Cleaning Data]()
+ - [Cleaning Data](https://ibb.co/99xrp8sZ)
 
 - [Pivot Table](https://ibb.co/jk56BwX1)
 
