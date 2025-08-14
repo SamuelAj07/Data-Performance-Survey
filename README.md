@@ -20,7 +20,7 @@
 
 [Analysis Visualisation](#analysis-visualisation)
 
-[Actionable Insights](#Actionable-insights)
+[Actionable Insights](#actionable-insights)
 
 [Strategic Recommendations](#strategic-recommendations)
 
@@ -28,26 +28,37 @@
 
 ---
 
-## 💼 Case Study 
+## 💼Case Study 
+
+This case study surveys data from data professionals worldwide to uncover key patterns and insights. This analysis looks at the relationship that exist between individuality and various external factors (payment gaps, gender, industries priority, skills, career change,  job satisfaction , country)
 
 
-## 🧩 Data Sources
+## 🧩Data Sources
 
-## 🔨⚒ Tools Used
+*Data Professional Survey File Data*
 
-1.	EXCEL
+## 🔨⚒Tools Used
 
-a.	Cleaning Data
-b.	Pivot Table
-c.	Pivot Charts
+1️⃣ EXCEL
 
-2.	Powerbi
+ - Cleaning Data
+
+- Pivot Table
+
+-	Pivot Charts
+
+2️⃣ Powerbi
+
 .	Data Importing: Getting data as an excel file in PowerBI
+
 .	Data Transformation and Manipulation: Use of powerquery for Table quality and distribution. Dax function for a calculated column of the Year. 
+
 .	Data visualization of pre-processed data.
 
-3.	SQL
+3️⃣ SQL
+
 a.	Data Maintenance
+
 b.	Data Retrieval 
 
 
@@ -57,17 +68,17 @@ Datasets Pre-processed for meaningful insights
 
 What was done; 
 
-a.	Standardized Categories
+✅ Standardized Categories
 
-b.	Dealt with blanks and errors
+✅ Dealt with blanks and errors
 
-c.	Normalizing values
+✅ Normalizing values
 
-d.	Separating cells
+✅ Separating cells
 
-e.	Replacing values
+✅ Replacing values
 
-f.	Ensuring consistency across the board
+✅ Ensuring consistency across the board
 
 
 ## Data Overview 
@@ -111,7 +122,24 @@ f.	Ensuring consistency across the board
 
 A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
 
+|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|
+
 ## ASK
+
+The analysis explored key business questions to provide insights in the data:
+
+🟢 How does pay vary by gender and ethnicity?
+
+🟢 Which programming languages are linked to higher salaries?
+
+🟢 Which tech roles offer the highest and lowest earnings?
+
+🟢 Which industries pay the most on average?
+
+ 🟢 How common is the shift into data-related roles, and does it differ by gender?
+
+🟢 What is the gender distribution across tech roles?
+
 
 ## Analysis Visualisation
 
@@ -119,9 +147,52 @@ A brief overview of the tabular datasets to be analyzed. The first 5 Columns are
 
 ## Actionable Insights
 
+1. Salary Average by Gender
+   
+Males earn an average salary of $53K, slightly lower than females at $55K.
+
+3. Salary Average by Favourite Programming Language
+
+Java generate the higest average salary at $116K, followed by C/C++ ($68K) and Python ($54K).
+
+C/C++ having the lowest salary among listed languages at $39K.
+
+3. Salary Average by Tech Roles
+
+Data Scientists receive/records the highest average salary ($86K), then Business Analysts ($58K) then software engineer and data Analysts following suit with 57K, 56K respectively.
+
+The “Other” category records the lowest salary at $39K
+
+4. Count of Career Switch (Data) by Gender
+
+More males (275) have switched to data-related careers than females (97).
+
+Fewer females (65) and males (193) reported no career switch.
+
+5. Average Salary by Work Industry (Top 10)
+
+Transportation offers the highest average salary ($116K), followed by Domestic Services ($96K) and Dimension & Reality ($81K).
+
+Several other industries report similar salaries in the range of $76K–$79K.
+
+6. Count by Tech Roles and Gender
+
+Males dominate tech roles across board with about 70 -90% to Females 
+
+Females are majorly represented in Data Analyst roles (124) 
+
+7. Salary Average by Ethnicity
+
+Individuals who prefer not to say ethnicity earn the highest average salary ($165K), followed by Pakistani ($96K) and American Indian/Alaskan Native ($87.7K).
+
+Bangladeshi and Turkish earn the lowest salaries at around $50K.
+
+
 ## Strategic Recommendations
 
 ## Refrences 
+
+📌Alex the Analyst
 
 ---
 
