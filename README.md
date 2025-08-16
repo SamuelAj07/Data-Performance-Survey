@@ -153,6 +153,7 @@ The analysis explored key business questions to provide insights in the data:
 
 <img width="1537" height="503" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/6bfd9932-8aed-4387-917c-ed760170b54b" />
 
+<img width="1119" height="630" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/d2b27c82-1101-47a2-a463-37e1966cbe53" />
 
 ### Queries
 
