@@ -198,6 +198,50 @@ Individuals who prefer not to say ethnicity earn the highest average salary ($16
 
 Bangladeshi and Turkish earn the lowest salaries at around $50K.
 
+*POWER BI*
+
+1. KPI
+
+The respondent pool is predominantly male (468) compared to female (162), with an average age of 30.
+
+The average reported salary stands at $54K.
+
+2. Career Transition into Data
+   
+25% found breaking into data roles difficult; 21% found it easy; 7% found it very difficult, 4% found it very easy and 43% found it normal  
+
+3. Job Priorities
+   
+Better salary is the leading motivation for exploring new opportunities (297 respondents), with remote work flexibility following suite at  (127) and improved work-life balance (117).
+
+Good culture and other trailing behind with 54 and 34 respondents respectively.  
+
+4. Satisfaction Levels
+
+Salary satisfaction is relatively low at 4.21/10, while work-life balance satisfaction is moderate at 5.64/10.
+
+5. Compensation by Ethnicity
+
+Python emerging as the most lucrative programming skill across Ethnicity with average salary between 23-20k of which are majorly Africans, with R and JavaScript following closely in being lucrative across continents.
+
+The programming language Java, though high paying only found as favorite amongst Asians.
+
+6. Earnings across Languages and Technical roles
+   
+Data Scientists earn the most, led by other languages(116K), Python(86K), and R(79K). While Software Engineers see top earning in “others” language (96K) and python (58K).
+
+Data Analysts shows balanced skill-based earning with JavaScript(74K) and R(58K) leading, with business analyst earning less overall - R topping with 64K and python (59K)
+
+“Other” roles stands out for high Java salaries (116K) despite smaller representation
+
+Overall, technical roles dominate pay with Python, R and JavaScript as the most lucrative skills. 
+
+7. Geographical Representation
+   
+Respondents are globally distributed, with significant representation from the United States, United Kingdom, India, and select African countries
+
+
+
 
 ## Strategic Recommendations
 
