@@ -155,6 +155,9 @@ The analysis explored key business questions to provide insights in the data:
 
 <img width="1119" height="630" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/d2b27c82-1101-47a2-a463-37e1966cbe53" />
 
+<img width="1120" height="631" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/ea50da56-2293-4c3d-b88e-d60430ce9203" />
+
+
 ### Queries
 
 ## Actionable Insights
