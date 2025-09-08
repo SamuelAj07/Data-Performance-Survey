@@ -20,9 +20,9 @@
 
 [Dashboard](#dashboard)
 
-[Strategic Insights](#actionable-insights)
+[Strategic Insights](#strategic-insights)
 
-[Actionable Recommendations](#strategic-recommendations)
+[Actionable Recommendations](#actionable-recommendations)
 
 [Refrences](#refrences)
 
