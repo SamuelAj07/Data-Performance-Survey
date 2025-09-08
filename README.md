@@ -20,9 +20,9 @@
 
 [Dashboard](#dashboard)
 
-[Actionable Insights](#actionable-insights)
+[Strategic Insights](#actionable-insights)
 
-[Strategic Recommendations](#strategic-recommendations)
+[Actionable Recommendations](#strategic-recommendations)
 
 [Refrences](#refrences)
 
@@ -160,7 +160,7 @@ The analysis explored key business questions to provide insights in the data:
 
 ### Queries
 
-## Actionable Insights
+## Strategic Insights
 
 1. Salary Average by Gender
    
@@ -247,7 +247,7 @@ Respondents are globally distributed, with significant representation from the U
 
 
 
-## Strategic Recommendations
+## Actionable Recommendations
 
 🔷 Close the Gender Pay Gap – Conduct salary audits and use transparent pay structures
 
